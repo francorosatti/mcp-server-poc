@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "nestjs-mcp": {
+      "command": "node",
+      "args": ["./dist/main.js"],
+      "cwd": "/home/franco/Documents/github/mcp-server-poc"
+    }
+  }
+}
